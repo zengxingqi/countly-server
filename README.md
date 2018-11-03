@@ -18,8 +18,4 @@
 ` http://127.0.0.1:6001 `
 
 ## 说明
-如果本项目对你有价值，请帮忙点个Star，谢谢！
-附上中文文档https://resources.count.ly/v2.0/docs
-
-## 补充
-源代码和社区版权请访问https://github.com/Countly/countly-server
+此项目不再维护，最新代码和需要支持，请前往了解https://github.com/zengxingqi/countly-node-server
