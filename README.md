@@ -6,11 +6,13 @@
 ` cd 20181102 && yarn `
 ### 2. 打包静态资源
 ` npm run grunt:task `
-### 3. 启动API服务
+### 3. 启用mongodb服务(默认你会使用)
+` mongod `
+### 4. 启用API服务
 ` npm run api `
-### 4. 启动server服务
+### 5. 启用server服务
 ` npm run server `
-### 5. 浏览器访问
+### 6. 浏览器访问
 ` http://localhost:6001 `
 或
 ` http://127.0.0.1:6001 `
