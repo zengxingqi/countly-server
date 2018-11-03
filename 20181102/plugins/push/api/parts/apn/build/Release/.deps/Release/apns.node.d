@@ -1,0 +1,1 @@
+cmd_Release/apns.node := c++ -bundle -undefined dynamic_lookup -Wl,-no_pie -Wl,-search_paths_first -mmacosx-version-min=10.7 -arch x86_64 -L./Release -stdlib=libc++  -o Release/apns.node Release/obj.target/apns/apns.o Release/obj.target/apns/h2.o Release/obj.target/apns/log.o /usr/local/lib/libnghttp2.a
