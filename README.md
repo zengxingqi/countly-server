@@ -6,7 +6,7 @@
 ` cd 20181102 && yarn `
 ### 2. 打包静态资源
 ` npm run grunt:task `
-### 3. 启用mongodb服务(默认你会使用)
+### 3. 启用mongodb服务
 ` mongod `
 ### 4. 启用API服务
 ` npm run api `
