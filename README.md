@@ -16,4 +16,8 @@
 ` http://127.0.0.1:6001 `
 
 # 说明
-如有问题，请访问开源项目https://github.com/Countly/countly-server
+如果本项目对你有价值，请帮忙点个Star，谢谢！
+附上中文文档https://resources.count.ly/v2.0/docs
+
+# 补充
+源代码和社区版权请访问https://github.com/Countly/countly-server
